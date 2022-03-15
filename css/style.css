@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+
+
+.a-nav{
+    margin: 5px;
+}
+
+.article1 {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.article2 {
+    list-style-position: inside;
+}
+
+header {
+    text-align: center;
+    list-style-position: inside;
+}
+
+body {
+    font-family: 'fredoka', sans-serif;
+
+}
+
+.h-red {
+    color: red;
+}
+
+.h-purple {
+    color: purple;
+}
+
+.h-yellow {
+    color: rgb(185, 140, 83);
+}
+
+img {
+    width: 35%;
+    height: 35%;
+}
+
